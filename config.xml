@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
+    id        = "avtolab"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>AVTOLAB</name>
 
 <description>
-A simple PhoneGap Build application.
+
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="https://avto-lab.com" email="avto-lab.com@mail.ru">
+Zamir J.T.
 </author>
-
+<access origin="http://avto-lab.com" subdomains="true" />
 </widget>
